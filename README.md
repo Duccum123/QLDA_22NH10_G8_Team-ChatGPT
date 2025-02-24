@@ -1,1 +1,1 @@
-# SRS_QLDA_22NH10_G8_Team-ChatGPT
+# QLDA_22NH10_G8_Team-ChatGPT
